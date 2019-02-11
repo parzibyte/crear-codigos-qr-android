@@ -1,1 +1,1 @@
-# leer-codigos-qr-android
+# editar-codigos-qr-android
